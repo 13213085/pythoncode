@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "<ipython-input-6-c8b3845f21c5>", line 2, in <module>
+    raise Exception('This is a error message.')
+Exception: This is a error message.

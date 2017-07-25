@@ -1,0 +1,253 @@
+Name:
+Student Number:
+          State Capital Quize 2
+1.The captital of Arizona is ____.
+A .Montopellier
+B .Madison
+C .Richmod
+D .Phoenix
+2.The captital of West Virginia is ____.
+A .Trenton
+B .Charleston
+C .Santa Fe
+D .Augusta
+3.The captital of Washington is ____.
+A .Tallahassee
+B .Columblus
+C .Little Rock
+D .Olympia
+4.The captital of Indiana is ____.
+A .Des Moines
+B .Trenton
+C .Indianapolis
+D .Saint Paul
+5.The captital of Louisiana is ____.
+A .Baton Rouge
+B .Providence
+C .Montopellier
+D .Nashville
+6.The captital of Albama is ____.
+A .Montgomery
+B .Boston
+C .Madison
+D .Honolulu
+7.The captital of Iowa is ____.
+A .Little Rock
+B .Des Moines
+C .Oklahoma City
+D .Harrisburg
+8.The captital of Maryland is ____.
+A .Annapolis
+B .Baton Rouge
+C .Montopellier
+D .Little Rock
+9.The captital of Oregon is ____.
+A .Salem
+B .Santa Fe
+C .Saint Paul
+D .Frankfort
+10.The captital of Nevada is ____.
+A .Carson City
+B .Charleston
+C .Austin
+D .Olympia
+11.The captital of Wyoming is ____.
+A .Cheyenne
+B .Saint Paul
+C .Harrisburg
+D .Boston
+12.The captital of South Carolina is ____.
+A .Juneau
+B .Montgomery
+C .Columbia
+D .Montopellier
+13.The captital of Arkansas is ____.
+A .Madison
+B .Little Rock
+C .Santa Fe
+D .Dover
+14.The captital of Mississippi is ____.
+A .Jackson
+B .Richmod
+C .Cheyenne
+D .Springfield
+15.The captital of Minnesota is ____.
+A .Dover
+B .Saint Paul
+C .Bismarck
+D .Boston
+16.The captital of Vriginia is ____.
+A .Little Rock
+B .Honolulu
+C .Boise
+D .Richmod
+17.The captital of Ohio is ____.
+A .Phoenix
+B .Harrisburg
+C .Providence
+D .Columblus
+18.The captital of Georgia is ____.
+A .Albany
+B .Phoenix
+C .Concord
+D .Atlanta
+19.The captital of Massachusetts is ____.
+A .Saint Paul
+B .Boston
+C .Frankfort
+D .Columbia
+20.The captital of Colorado is ____.
+A .Juneau
+B .Santa Fe
+C .Atlanta
+D .Denver
+21.The captital of Missouri is ____.
+A .Salt Lake City
+B .Jefferson City
+C .Olympia
+D .Columbia
+22.The captital of Illibois is ____.
+A .Springfield
+B .Olympia
+C .Montgomery
+D .Atlanta
+23.The captital of Michigan is ____.
+A .Topeka
+B .Providence
+C .Sacramento
+D .Lansing
+24.The captital of Maine is ____.
+A .Frankfort
+B .Columblus
+C .Augusta
+D .Raleigh
+25.The captital of South Dakota is ____.
+A .Madison
+B .Juneau
+C .Sacramento
+D .Pierre
+26.The captital of Connecticut is ____.
+A .Carson City
+B .Oklahoma City
+C .Bismarck
+D .Harford
+27.The captital of New Mexico is ____.
+A .Nashville
+B .Concord
+C .Indianapolis
+D .Santa Fe
+28.The captital of Tennessee is ____.
+A .Lincoln
+B .Nashville
+C .Phoenix
+D .Concord
+29.The captital of Vermont is ____.
+A .Montopellier
+B .Frankfort
+C .Albany
+D .Austin
+30.The captital of Kentucky is ____.
+A .Tallahassee
+B .Baton Rouge
+C .Cheyenne
+D .Frankfort
+31.The captital of Wisconsin is ____.
+A .Atlanta
+B .Providence
+C .Annapolis
+D .Madison
+32.The captital of New York is ____.
+A .Richmod
+B .Lansing
+C .Albany
+D .Frankfort
+33.The captital of Delaware is ____.
+A .Dover
+B .Des Moines
+C .Richmod
+D .Madison
+34.The captital of Kansas is ____.
+A .Austin
+B .Topeka
+C .Little Rock
+D .Jefferson City
+35.The captital of New Hampshire is ____.
+A .Albany
+B .Honolulu
+C .Concord
+D .Augusta
+36.The captital of Utah is ____.
+A .Bismarck
+B .Phoenix
+C .Bismarck
+D .Salt Lake City
+37.The captital of Montana is ____.
+A .Des Moines
+B .Helena
+C .Springfield
+D .Atlanta
+38.The captital of Texas is ____.
+A .Madison
+B .Bismarck
+C .Austin
+D .Trenton
+39.The captital of North Carolina is ____.
+A .Raleigh
+B .Cheyenne
+C .Olympia
+D .Trenton
+40.The captital of Rhode Island is ____.
+A .Providence
+B .Cheyenne
+C .Lincoln
+D .Little Rock
+41.The captital of Florida is ____.
+A .Des Moines
+B .Columblus
+C .Tallahassee
+D .Oklahoma City
+42.The captital of Idaho is ____.
+A .Indianapolis
+B .Boise
+C .Olympia
+D .Bismarck
+43.The captital of Oklahoma is ____.
+A .Concord
+B .Oklahoma City
+C .Little Rock
+D .Richmod
+44.The captital of New Jersey is ____.
+A .Albany
+B .Boston
+C .Trenton
+D .Salem
+45.The captital of North Dakota is ____.
+A .Little Rock
+B .Dover
+C .Concord
+D .Bismarck
+46.The captital of Alaska is ____.
+A .Madison
+B .Madison
+C .Juneau
+D .Boise
+47.The captital of Hawaii is ____.
+A .Frankfort
+B .Honolulu
+C .Salem
+D .Columblus
+48.The captital of Nebraska is ____.
+A .Des Moines
+B .Tallahassee
+C .Lincoln
+D .Juneau
+49.The captital of California is ____.
+A .Jefferson City
+B .Sacramento
+C .Providence
+D .Tallahassee
+50.The captital of Pennsylvania is ____.
+A .Lincoln
+B .Harrisburg
+C .Annapolis
+D .Jackson
